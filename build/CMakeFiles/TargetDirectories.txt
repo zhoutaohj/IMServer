@@ -1,0 +1,3 @@
+/home/zhoutao/IMServer/build/CMakeFiles/rebuild_cache.dir
+/home/zhoutao/IMServer/build/CMakeFiles/edit_cache.dir
+/home/zhoutao/IMServer/build/CMakeFiles/IMService.dir
